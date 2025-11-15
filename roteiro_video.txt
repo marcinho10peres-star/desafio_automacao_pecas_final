@@ -1,0 +1,23 @@
+Roteiro para vídeo pitch (~3 minutos)
+
+1) Apresentação (10s)
+"Olá, meu nome é [Seu Nome]. Este é o projeto 'Desafio Automação Digital — Gestão de Peças'."
+
+2) Problema (25s)
+"Atualmente a conferência manual de peças gera atrasos e erros. Isso impacta qualidade e custo."
+
+3) Solução (30s)
+"Apresentei uma solução em Python que recebe o peso, cor e comprimento de cada peça, avalia automaticamente e armazena as aprovadas em caixas de capacidade limitada."
+
+4) Demonstração (90s)
+- Mostrar terminal.
+- Rodar `python main.py`.
+- Cadastrar: Peso=100, Cor=Azul, Comprimento=15 — mostrar aprovado e inserido em caixa.
+- Cadastrar: Peso=110, Cor=Azul, Comprimento=15 — mostrar reprovado e motivos.
+- Mostrar listagem de caixas e geração de relatório (CSV).
+
+5) Tecnologias e próximos passos (25s)
+"Usamos Python e JSON. Próximos passos: integração com sensores, API e interface web."
+
+6) Encerramento (10s)
+"Repositório: https://github.com/<seu-usuario>/desafio-automacao-pecas. Obrigado!"
